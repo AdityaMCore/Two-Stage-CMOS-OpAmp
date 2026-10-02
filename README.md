@@ -9,7 +9,7 @@ with a series nulling resistor.
 
 ## Schematic
 
-![Schematic](docs/Schematic.png)
+![Schematic](results/Schematic.png)
 
 ## Simulation Results
 
@@ -24,7 +24,7 @@ with a series nulling resistor.
 | Miller Capacitor | 3 pF |
 | Nulling Resistor | 1.8 kΩ |
 
-![Bode Plot](docs/bode_plot.png)
+![Bode Plot](results/bode.png)
 
 ## Transistor Sizing
 
