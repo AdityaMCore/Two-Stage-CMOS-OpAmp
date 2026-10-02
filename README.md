@@ -9,7 +9,7 @@ with a series nulling resistor.
 
 ## Schematic
 
-![Schematic](docs/schematic.png)
+![Schematic](docs/Schematic.png)
 
 ## Simulation Results
 
